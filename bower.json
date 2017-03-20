@@ -1,0 +1,20 @@
+{
+  "name": "template_react",
+  "version": "0.1.0",
+  "description": "Template inicial para proyectos con react js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proskynete/template-react.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "bower"
+  ],
+  "author": "Eduardo Alvarez (http://www.ealvarezc.cl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proskynete/template-react/issues"
+  },
+  "homepage": "https://github.com/Proskynete/template-react#readme"
+}
