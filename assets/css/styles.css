@@ -1,0 +1,16 @@
+/* 
+*  ==========================================================================
+*  Style to browser_upgrade
+*  ========================================================================== 
+*/
+
+.browser_upgrade{
+    background: #ddd;
+    color: #000;
+    padding: 0.4em 0;
+    text-align: center;
+}
+.browser_upgrade span{
+	text-transform: uppercase;
+	font-weight: bolder;
+}
