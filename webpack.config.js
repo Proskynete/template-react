@@ -7,9 +7,9 @@ module.exports = {
     app: ['./src/index.jsx']
   },
   output: {
-    path: '/assets/js/build',
+    path: '/assets/js/',
     filename: 'bundle.js',
-    publicPath: '/assets/js/build/'
+    publicPath: '/assets/js/'
   },
   devServer: {
     contentBase: __dirname,

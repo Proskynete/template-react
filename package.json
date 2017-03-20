@@ -4,7 +4,8 @@
   "description": "Template inicial para proyectos con react js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --watch --colors",
+    "serve": "webpack-dev-server --progress --colors"
   },
   "repository": {
     "type": "git",
